@@ -17,6 +17,8 @@ else:
   ceil = math.ceil(len(text) / len(key))
 
   new_key = []
+  
+  #print(key)
 
   for i in range (0,ceil):
 
